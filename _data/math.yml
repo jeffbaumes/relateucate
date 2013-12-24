@@ -1,0 +1,20 @@
+- 
+  name: Digestion
+  id: A.1
+  resources:
+    -
+      url: http://movies.netflix.com/WiPlayer?movieid=70262645
+      name: The Magic School Bus for Lunch
+      type: video
+      collection: Magic School Bus
+      part: "Season 1 : Episode 2"
+- 
+  name: Gravity
+  id: A.1
+  resources:
+    -
+      url: http://movies.netflix.com/WiPlayer?movieid=70262645
+      name: The Magic School Bus Gains Weight
+      type: video
+      collection: Magic School Bus
+      part: "Season 4 : Episode 8"

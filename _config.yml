@@ -1,9 +1,10 @@
-title:        Hyde
-tagline:      "Hyde, a Jekyll theme"
-url:          http://andhyde.com
+title:        Relateucate
+tagline:      Learning resources organized by topic from all over.
+#url:          http://jeffbaumes.github.io/relateucate
+url:          /
 author:
-  name:       ""
-  email:      ""
+  name:       "Jeff Baumes"
+  email:      "jeffbaumes@gmail.com"
 markdown:     rdiscount
 permalink:    pretty
 pygments:     true

@@ -1,0 +1,19 @@
+- name: Chemical Reactions
+  resources:
+    -
+      name: "The Magic School Bus Gets Ready, Set, Dough"
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 9
+      description: >
+        The students learn a bit about chemistry by being baked
+        into a cake. The show mentions the crystal structure of
+        salt and sugar, and the process of combining substances
+        to make something new.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

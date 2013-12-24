@@ -1,0 +1,141 @@
+-
+  name: Decomposition
+  resources:
+    -
+      name: The Magic School Bus Meets the Rot Squad
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 6
+      description: >
+        The school bus shrinks down to bug level and the class finds
+        itself learning about the fascinating world inside a rotting log,
+        and the importance of the process of decomposition.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Habitats
+  resources:
+    -
+      name: The Magic School Bus Hops Home
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 5
+      description: >
+        By visiting a frog's home, Ms. Frizzle's class learns about habitats.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262648
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus All Dried Up
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 7
+      description: >
+        The School Bus takes the class to the desert to explore this unique biome.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Insects
+  resources:
+    -
+      name: The Magic School Bus Gets Ants In Its Pants
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 12
+      description: >
+        Inside an ant colony, the class learns about their complex society
+        and how the queen, forager, builder, guard ants all work together
+        to make the nest function.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Plant Reproduction
+  resources:
+    -
+      name: The Magic School Bus Goes to Seed
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 11
+      description: >
+        The class learns about how plants make seeds by going inside a
+        flower and seeing the pollen, nectar, and eggs, and finding out
+        the role bees play in the process.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: The Food Web
+  resources:
+    -
+      name: The Magic School Bus Gets Eaten
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 4
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262647
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Human Digestive System
+  resources:
+    -
+      name: The Magic School Bus for Lunch
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 2
+      description: >
+        The class enters the digestive tract through the mouth and
+        follows it through the stomach and intestines.
+        Thankfully it comes back out the way it went in (a burp), not
+        another way.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262645
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Human Immune System
+  resources:
+    -
+      name: The Magic School Bus Inside Ralphie
+      type: video
+      collection: Magic School Bus
+      part: Season 1 · Episode 3
+      description: >
+        Ms. Frizzle brings teaches about antibodies and white blood cells
+        by roaming around in a student who's home sick.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70262646
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

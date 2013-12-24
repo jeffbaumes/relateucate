@@ -1,0 +1,36 @@
+---
+layout: default
+title: Physics
+---
+
+<div class="posts">
+  <div class="post">
+
+    <h1 class="page-title">{{ page.title }}</h1>
+
+    {% for t in site.data.physics %}
+      <h3>{{ t.name }}</h3>
+      {% for r in t.resources %}
+        <h4>{{ r.name }}
+          <small>
+            {% for l in r.locations %}
+              &middot; <a href="{{ l.url }}">{{ l.type }}</a>
+            {% endfor %}
+          </small>
+        </h4>
+        <p><small>
+          {% if r.collection %}
+            {{ r.collection }}
+            {% if r.part %}
+              &middot; {{ r.part }}
+            {% endif %}
+          {% endif %}
+        </small></p>
+        <p>
+          {{ r.description }}
+        </p>
+      {% endfor %}
+    {% endfor %}
+
+  </div>
+</div>

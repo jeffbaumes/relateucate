@@ -5,6 +5,7 @@ url:          /
 author:
   name:       "Jeff Baumes"
   email:      "jeffbaumes@gmail.com"
+excerpt_separator: "\n\n"
 markdown:     rdiscount
 permalink:    pretty
 pygments:     true

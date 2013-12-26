@@ -1,11 +1,12 @@
 title:        Relateucate
-tagline:      "Learning resources form all over, organized by topic."
+tagline:      "Ideas for learning from all over"
 #url:          http://jeffbaumes.github.io/relateucate
 url:          /
 author:
   name:       "Jeff Baumes"
   email:      "jeffbaumes@gmail.com"
 excerpt_separator: "\n\n"
+comments:     true
 markdown:     rdiscount
 permalink:    pretty
 pygments:     true

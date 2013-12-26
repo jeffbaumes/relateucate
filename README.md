@@ -1,9 +1,19 @@
-# [Hyde](http://andhyde.com)
+# [Relateucate](http://jeffbaumes.github.io/relateucate)
 
-An elegant open source, mobile-first theme for [Jekyll](https://github.com/mojombo/jekyll). It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
+Modern learning.
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1330948/de10196c-353f-11e3-86d0-8e967dd95722.png)
+I'd welcome others adding to the catalog of
+educational links with pull requests on files in the `_data` folder.
+If you have a post that you think would
+be relevant, go ahead and send me a `_draft/your-cool-post.md` pull
+request.
 
-Open sourced under the [MIT license](LICENSE.md).
+I'm using [Jekyll](http://jekyllrb.com) to build the site and
+[Hyde](http://andhyde.com) as a starting point for a theme.
 
-<3
+License
+-------
+
+Content is licensed [CC-BY](http://creativecommons.org/licenses/by/2.0/).
+
+Code is licensed under the [MIT license](LICENSE.md).

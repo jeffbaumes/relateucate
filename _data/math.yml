@@ -1,20 +1,16 @@
-- 
-  name: Digestion
-  id: A.1
+-
+  name: Patterns
   resources:
     -
-      url: http://movies.netflix.com/WiPlayer?movieid=70262645
-      name: The Magic School Bus for Lunch
-      type: video
-      collection: Magic School Bus
-      part: "Season 1 : Episode 2"
-- 
-  name: Gravity
-  id: A.1
-  resources:
-    -
-      url: http://movies.netflix.com/WiPlayer?movieid=70262645
-      name: The Magic School Bus Gains Weight
-      type: video
-      collection: Magic School Bus
-      part: "Season 4 : Episode 8"
+      name: The Amazing Snow Art Of Simon Beck
+      type: article
+      description: >
+        Simon Beck spends hours of walking to create complex patterns in the snow.
+        The article shows that math can be beautiful, and exhausting!
+      locations:
+        -
+          type: Article
+          url: http://www.npr.org/blogs/13.7/2013/12/22/251615317/the-amazing-snow-art-of-simon-beck
+        -
+          type: YouTube
+          url: http://www.youtube.com/watch?v=Y0bYpF_JqME

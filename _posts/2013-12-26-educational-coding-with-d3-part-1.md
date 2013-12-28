@@ -684,32 +684,17 @@ function update() {
 }
 {% endhighlight %}
 
-Now to add a couple controls for the time and speed. This first
+Now to add a couple controls for the time and speed. One
 button will enable you to set the observer to your
-current time. I'm adding 0.5 in the month calculation because I'm assuming
-the labels represent mid-month rather than the start of the month.
-
-{% highlight javascript %}
-svg.append("text")
-    .attr("x", 10).attr("y", 120).text("Now")
-    .style("cursor", "pointer")
-    .on("click", function () {
-        var date = new Date();
-        data.month = date.getMonth() + date.getDate()/30 + 0.5;
-        data.hour = date.getHours();
-        update();
-    });
-{% endhighlight %}
-
-We'll also add other controls to pause and animate in real-time
-(about the same as pause unless you're really patient), low,
-and high speeds.
+current time.
+We'll also add options to stop the animation and animate at low
+or high speeds.
 
 {% highlight javascript %}
 var speeds = svg.selectAll("text.speed")
     .data([
-        {name: "Pause", speed: 0},
-        {name: "Real-time (Slow!)", speed: 1},
+        {name: "Stop", speed: 0},
+        {name: "Real-time (now)", speed: 1},
         {name: "Fast", speed: 24 * 60 * 60},
         {name: "Hyper-speed", speed: 24 * 60 * 60 * 5}
         ])
@@ -722,12 +707,19 @@ var speeds = svg.selectAll("text.speed")
     .style("cursor", "pointer")
     .on("click", function (d) {
         data.speedup = d.speed;
-        speeds.style("fill", function (dd) { return dd === d ? "black" : "gray"; })
-        update();
+        if (d.speed === 1) {
+            var date = new Date();
+            data.month = date.getMonth() + date.getDate()/30 + 0.5;
+            data.hour = date.getHours();
+        }
+        speeds.style("fill", function (dd) {
+            return dd === d ? "black" : "gray";
+        });
     });
 {% endhighlight %}
 
-And here's the final graphic:
+And here's the final graphic. To see the resulting educational post, see
+[The Earth Spins and Moves](http://jeffbaumes.github.io/relateucate/2013/12/27/the-earth-spins-and-moves/).
 
 <div id="vis7"></div>
 <script>
@@ -742,20 +734,10 @@ var svg = d3.select("#vis7").append("svg")
     .attr("width", 500)
     .attr("height", 500);
 
-svg.append("text")
-    .attr("x", 10).attr("y", 120).text("Now")
-    .style("cursor", "pointer")
-    .on("click", function () {
-        var date = new Date();
-        data.month = date.getMonth() + date.getDate()/30 + 0.5;
-        data.hour = date.getHours();
-        update();
-    });
-
 var speeds = svg.selectAll("text.speed")
     .data([
-        {name: "Pause", speed: 0},
-        {name: "Real-time (Slow!)", speed: 1},
+        {name: "Stop", speed: 0},
+        {name: "Real-time (now)", speed: 1},
         {name: "Fast", speed: 24 * 60 * 60},
         {name: "Hyper-speed", speed: 24 * 60 * 60 * 5}
         ])
@@ -768,8 +750,14 @@ var speeds = svg.selectAll("text.speed")
     .style("cursor", "pointer")
     .on("click", function (d) {
         data.speedup = d.speed;
-        speeds.style("fill", function (dd) { return dd === d ? "black" : "gray"; })
-        update();
+        if (d.speed === 1) {
+            var date = new Date();
+            data.month = date.getMonth() + date.getDate()/30 + 0.5;
+            data.hour = date.getHours();
+        }
+        speeds.style("fill", function (dd) {
+            return dd === d ? "black" : "gray";
+        });
     });
 
 var months = ["Jan", "Feb", "Mar", "Apr",
@@ -824,7 +812,6 @@ svg.selectAll("text.month")
     .style("cursor", "pointer")
     .on("click", function (d, i) {
         data.month = i + 1;
-        update();
     });
 
 earthLocation.selectAll("g.hour")
@@ -848,7 +835,6 @@ earthLocation.selectAll("g.hour")
     .style("cursor", "pointer")
     .on("click", function (d) {
         data.hour = d;
-        update();
     });
 
 function update() {

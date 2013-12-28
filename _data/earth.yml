@@ -1,4 +1,18 @@
 -
+  name: Days and Seasons
+  resources:
+    -
+      name: The Earth Spins and Moves
+      type: interactive
+      collection: Relateucate
+      description: >
+        An interactive graphic showing how the Earth moves in a day
+        and year.
+      locations:
+        -
+          type: Web
+          url: http://jeffbaumes.github.io/relateucate/2013/12/27/the-earth-spins-and-moves/
+-
   name: The Planets
   resources:
     -

@@ -215,12 +215,23 @@ a:hover {
   color: #ccc;
 }
 
+/* Nav links area of masthead */
+.nav {
+  margin-top: 20px;
+  color: #7a7a7a;
+}
+.nav-links {
+  padding-left: 0;
+  list-style: none;
+}
+
 /* Footer area of masthead */
 .colophon {
   margin-top: 20px;
   color: #7a7a7a;
 }
 .colophon-links {
+  font-size: 12px;
   padding-left: 0;
   list-style: none;
 }
@@ -366,9 +377,6 @@ a:hover {
   }
   .masthead h1 {
     font-size: 48px;
-  }
-  .colophon {
-    margin-top: 40px;
   }
 
   /* Remove mobile device padding from list of posts */

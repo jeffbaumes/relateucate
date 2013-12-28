@@ -4,6 +4,11 @@ title: The Earth Spins and Moves
 subject: Earth and Space
 topic: Days and Seasons
 ---
+What makes a day a day, and a year a year?
+
+Spinning Like a Top
+-------------------
+
 The Earth spins around once a day. This spinning
 motion is called its rotation.
 As the Earth rotates, you are sometimes in the
@@ -17,6 +22,9 @@ just keeps going on and on. The moon is in fact tugging
 on the Earth, slowing it down a tiny bit each day, but the Earth
 will be spinning at about the same speed for many many years.
 
+Swirling Around the Sun
+-----------------------
+
 The Earth also moves around the Sun in what is called
 an orbit.
 It takes one year for the Earth to go all the way around
@@ -29,6 +37,9 @@ This movement is just like water spinning around a drain,
 except again in space there is nothing to slow down the Earth's
 movement through space. So the Earth never reaches the Sun -
 it never "goes down the drain".
+
+Watch the Earth Move
+--------------------
 
 In the picture below, you are looking down on the Earth 
 and Sun from far above the Earth's North Pole.
@@ -48,18 +59,6 @@ The month names mark where the Earth is at different times
 of year. Press a month to jump the Earth to that location.
 There are also times of day around the Earth that you can
 press to rotate yourself to day or night.
-
-Questions to think about:
-
-1. Can you count about how many days are in a month? a year?
-2. What time of day are you farthest from the Sun? At what time are you closest?
-3. In what month will the Earth be the farthest away from where it is right now?
-4. What time of day are you moving fastest through space? Hint: When is
-   the Earth rotating and orbiting in the same direction?
-5. If you were in a hot air baloon floating 1/2 mile above the same
-   spot on Earth for a whole day, would the sun be up more, less,
-   or the same amount of time compared to someone directly below
-   you on the ground?
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <div id="vis"></div>
@@ -216,8 +215,21 @@ update();
 }());
 </script>
 
+Questions to Think About
+------------------------
 
-Answers:
+1. Can you count about how many days are in a month? a year?
+2. What time of day are you farthest from the Sun? At what time are you closest?
+3. In what month will the Earth be the farthest away from where it is right now?
+4. What time of day are you moving fastest through space? Hint: When is
+   the Earth rotating and orbiting in the same direction?
+5. If you were in a hot air baloon floating 1/2 mile above the same
+   spot on Earth for a whole day, would the sun be up more, less,
+   or the same amount of time compared to someone directly below
+   you on the ground?
+
+Answers
+-------
 
 1. About 30 days in a month, 365 in a year.
 2. Farthest at midnight, closest at noon.
@@ -225,5 +237,8 @@ Answers:
 4. Midnight, since the orbit and rotation directions are the same.
 5. More. You will be out of the Earth's shadow a bit sooner
    in the morning and enter its shadow a bit later at night.
+
+Inside the Code
+---------------
 
 If you want to see how this animation was made, see [Educational Coding with D3, Part 1](http://jeffbaumes.github.io/relateucate/2013/12/26/educational-coding-with-d3-part-1/).

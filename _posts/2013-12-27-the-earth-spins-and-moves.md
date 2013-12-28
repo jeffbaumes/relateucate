@@ -24,7 +24,7 @@ the Sun.
 The Sun's gravity is always wanting to pull
 the Earth to it, but because the Earth is moving foward
 through space so
-fast, it always misses hitting the sun and keeps going around.
+fast, it always misses hitting the Sun and keeps going around.
 This movement is just like water spinning around a drain,
 except again in space there is nothing to slow down the Earth's
 movement through space. So the Earth never reaches the Sun -

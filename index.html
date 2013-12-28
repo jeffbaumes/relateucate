@@ -14,6 +14,8 @@ layout: default
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.excerpt }}
+
+    <a href="{{ site.url }}{{ post.url }}">Read more ...</a>
   </div>
   {% endfor %}
 </div>

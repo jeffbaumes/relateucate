@@ -48,21 +48,6 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
-    -
-      name: The Magic School Bus Going Batty
-      type: video
-      collection: Magic School Bus
-      part: Season 2 · Episode 9
-      description: >
-        Ms Frizzle's students turn into bats to find out how they see
-        and navigate in the dark.
-      locations:
-        -
-          type: Netflix
-          url: http://movies.netflix.com/WiPlayer?movieid=70286644
-        -
-          type: Amazon
-          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: Microbes
   resources:
@@ -130,6 +115,24 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Mammals
+  resources:
+    -
+      name: The Magic School Bus Going Batty
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 9
+      description: >
+        Ms Frizzle's students turn into bats to find out how they see
+        and navigate in the dark.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286644
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

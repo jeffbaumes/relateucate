@@ -18,6 +18,60 @@
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
+  name: Aerodynamics
+  resources:
+    -
+      name: The Magic School Bus Taking Flight
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 8
+      description: >
+        The class learns how planes and birds are able to get up into
+        the air and stay there.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286643
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Combustion
+  resources:
+    -
+      name: The Magic School Bus Revving Up
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 7
+      description: >
+        The class learns about how engines work while attempting to
+        keep the Magic School Bus from being junked.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286642
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Energy
+  resources:
+    -
+      name: The Magic School Bus Getting Energized
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 10
+      description: >
+        An elementary class use energy of all kinds to get a ferris
+        wheel turning.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286645
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
   name: Sound
   resources:
     -

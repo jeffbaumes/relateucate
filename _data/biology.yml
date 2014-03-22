@@ -48,6 +48,39 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Going Batty
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 9
+      description: >
+        Ms Frizzle's students turn into bats to find out how they see
+        and navigate in the dark.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286644
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Microbes
+  resources:
+    -
+      name: The Magic School Bus in a Pickle
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 6
+      description: >
+        Ms. Frizzle's class learns how microbes work at micorscopic
+        scale to transform cucumbers into pickles.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286641
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: Insects
   resources:
@@ -64,6 +97,20 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Butterfly and the Bog Beast
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 3
+      description: >
+        The class learns about butterflies from the Friz.
+      locations:
+        -
+          type: Netflix
+          url: http://www.netflix.com/WiPlayer?movieid=70286638
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
@@ -87,6 +134,24 @@
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
+  name: Reptiles
+  resources:
+    -
+      name: The Magic School Bus Cold Feet
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 12
+      description: >
+        Using their versatile school bus, a class visits a reptiles
+        to learn about these cold blooded animals.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286647
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
   name: The Food Web
   resources:
     -
@@ -98,6 +163,42 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70262647
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Fossils
+  resources:
+    -
+      name: The Magic School Bus and The Busasaurus
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 4
+      description: >
+        The School Bus goes back in time to see the dinosaurs and
+        learns about how paleontologists learn about the past.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286639
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Human Muscular System
+  resources:
+    -
+      name: The Magic School Bus Flexes its Muscles
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 2
+      description: >
+        Ms. Frizzle's class figures out how bones and muscles work
+        together to make your body move.
+      locations:
+        -
+          type: Netflix
+          url: http://www.netflix.com/WiPlayer?movieid=70286637
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

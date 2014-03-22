@@ -81,6 +81,24 @@
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
+  name: The Water Cycle
+  resources:
+    -
+      name: The Magic School Bus Wet All Over
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 5
+      description: >
+        An elementary class sees how water goes from the air to the ground,
+        and back again.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286640
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
   name: Gravity
   resources:
     -
@@ -92,6 +110,21 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70262645
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Out of This World
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 11
+      description: >
+        To save the world from an asteroid impact, Ms Frizzle's elementary
+        class learns about what causes orbits.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286646
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

@@ -17,3 +17,20 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+- name: Density
+  resources:
+    -
+      name: The Magic School Bus Ups and Downs
+      type: video
+      collection: Magic School Bus
+      part: Season 2 · Episode 13
+      description: >
+        There is a lot to learn about why things float and sink while
+        the students try to expose a mystery lake monster.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286648
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

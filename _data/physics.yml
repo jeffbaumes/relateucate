@@ -54,6 +54,26 @@
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
+  name: Structures
+  resources:
+    -
+      name: The Magic School Bus Under Construction
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 3
+      description: >
+        Somehow ending up shrunk and in a bathroom, an elementary class needs
+        to learn about building stable structures on a small scale in order
+        to escape. Some of the activities performed in this episode could be
+        replicated afterward with your students to see if they really work.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286652
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
   name: Energy
   resources:
     -
@@ -68,6 +88,21 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70286645
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus In the Arctic
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 1
+      description: >
+        The school bus takes an elementary class to a frigid climate to
+        learn how insulation keeps things warm.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286650
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
@@ -90,3 +125,37 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Light
+  resources:
+    -
+      name: The Magic School Bus Gets a Bright Idea
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 5
+      description: >
+        Ms. Frizzle's class needs to learn about how light moves and reflects off
+        objects in order to create a light show.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286654
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Makes a Rainbow
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 7
+      description: >
+        The school bus takes students inside a bizarre pinball machine where they
+        must learn about how light gets absorbed, reflected, and refracted.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286656
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+

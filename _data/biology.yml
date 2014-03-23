@@ -48,6 +48,21 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus in the Rain Forest
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 12
+      description: >
+        Elementary students learn about the rain forest while they go on adventure to
+        find the source of the ingredients of hot chocolate for their teacher.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286661
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: Microbes
   resources:
@@ -99,8 +114,56 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Spins a Web
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 2
+      description: >
+        An elementary class gets the class into spiders by entering a horror
+        film. While everyone remains safe in the end, this episode should
+        probably be avoided for younger or more sensitive children.
+      locations:
+        -
+          type: Netflix
+          url: http://www.netflix.com/WiPlayer?movieid=70286651
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus In a Beehive
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 4
+      description: >
+        The class enters a beehive to learn how this complex community works.
+      locations:
+        -
+          type: Netflix
+          url: http://www.netflix.com/WiPlayer?movieid=70286653
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
-  name: Plant Reproduction
+  name: Fish
+  resources:
+    -
+      name: The Magic School Bus Goes Upstream
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 8
+      description: >
+        The students of Ms. Frizzle take to a river to learn about salmon and
+        their habitat.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286657
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Plants
   resources:
     -
       name: The Magic School Bus Goes to Seed
@@ -115,6 +178,21 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70262649
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Gets Planted
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 11
+      description: >
+        Ms Frizzle's students learn about how plants create food by getting inside a
+        sweet potato plant.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286660
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
@@ -202,6 +280,22 @@
         -
           type: Netflix
           url: http://www.netflix.com/WiPlayer?movieid=70286637
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Works Out
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 9
+      description: >
+        Ms. Frizzle needs her muscles to work well for an athletic competition,
+        so her students travel inside her to learn how oxygen gets used by muscles,
+        and how muscles create lactic acid when oxygen becomes scarce.
+      locations:
+        -
+          type: Netflix
+          url: http://www.netflix.com/WiPlayer?movieid=70286658
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

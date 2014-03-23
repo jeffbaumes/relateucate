@@ -61,6 +61,21 @@
         -
           type: Article
           url: http://news.nationalgeographic.com/news/2013/11/131121-japan-volcano-new-island-eruption-science/
+    -
+      name: The Magic School Bus Rocks and Rolls
+      type: video
+      description: >
+        A group of students led by the eccentric Ms. Frizzle learn all about how rocks
+        turn into rubble through erosion.
+      collection: Magic School Bus
+      part: Season 3 · Episode 13
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286662
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: Weather
   resources:
@@ -125,6 +140,42 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70286646
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Archeology
+  resources:
+    -
+      name: The Magic School Bus Shows and Tells
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 6
+      description: >
+        In an unlikely show and tell competition, Arnold brings an unknown old
+        object that the class must use archeologist reasoning to understand.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286655
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Recycling
+  resources:
+    -
+      name: The Magic School Bus Holiday Special
+      type: video
+      collection: Magic School Bus
+      part: Season 3 · Episode 10
+      description: >
+        Ms. Frizzle's class learns about recycling to save their school from becoming
+        a garbage dump and to save more trees from being cut down.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286659
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

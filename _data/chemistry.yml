@@ -17,6 +17,40 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+- name: Molecules
+  resources:
+    -
+      name: The Magic School Bus Meets Molly Cule
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 6
+      description: >
+        In order to clean a dirty car, a class of kids get's small and learns how
+        molecules of different shapes and sizes interact.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286669
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+- name: Gasses
+  resources:
+    -
+      name: The Magic School Bus Goes on Air
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 3
+      description: >
+        The class learns about air pressure when they get stuck in a bottle and need to
+        find a way out.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286666
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 - name: Density
   resources:
     -

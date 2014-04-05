@@ -126,6 +126,39 @@
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
+  name: Electricity
+  resources:
+    -
+      name: The Magic School Bus Gets Charged
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 9
+      description: >
+        To fix a broken doorbell, Ms. Frizzle's class enters a simple electric circut to
+        learn what causes electrons to flow through a wire.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286672
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Gets Programmed
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 13
+      description: >
+        Ms. Frizzle's class enters a 90's era computer to learn about how computers perform tasks
+        by transferring electric signals, and how computers blindly follow program instructions.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286676
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
   name: Light
   resources:
     -

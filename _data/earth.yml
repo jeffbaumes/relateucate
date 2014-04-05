@@ -32,6 +32,24 @@
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
+  name: Stars
+  resources:
+    -
+      name: The Magic School Bus Sees Stars
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 7
+      description: >
+        The class investigates a star salesman as they try to purchase the right kind of star,
+        and in the process they learn about supernovas and the different types of stars.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286670
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
   name: Geologic Cycle
   resources:
     -
@@ -121,6 +139,9 @@
       type: video
       collection: Magic School Bus
       part: Season 4 · Episode 8
+      description: >
+        A class of students builds their own planet to see if changing the planet size
+        could change gravity and help Pheobe make a slam dunk.
       locations:
         -
           type: Netflix

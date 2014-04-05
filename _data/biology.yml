@@ -63,6 +63,51 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Gets Swamped
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 4
+      description: >
+        The class learns why swamps are so important when a business wants to replace
+        one with a shopping mall.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286667
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Takes a Dive
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 11
+      description: >
+        Ms. Frizzle's class starts by looking for sunken treasure but ends up learning
+        how a coral reef's fragile ecosystem works.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286674
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus In the City
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 12
+      description: >
+        Ms. Frizzle's class explores a city at night to learn about what animals live there,
+        and that food, shelter, and safety are all that's needed for animals to live.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286675
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: Microbes
   resources:
@@ -162,6 +207,21 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+    -
+      name: The Magic School Bus Goes to Mussel Beach
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 2
+      description: >
+        A class of children learn about the intricate tidal pool ecosystem as while they try
+        to find a better home for mussels.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286665
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: Plants
   resources:
@@ -232,6 +292,22 @@
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+- name: Birds
+  resources:
+    -
+      name: The Magic School Bus Cracks a Yolk
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 1
+      description: >
+        Ms. Frizzle's class goes inside an egg to see how the embryo develops.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286664
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
 -
   name: The Food Web
   resources:
@@ -262,6 +338,24 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70286639
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: Cells
+  resources:
+    -
+      name: The Magic School Bus Goes Cellular
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 5
+      description: >
+        The school bus enters Arnold to find out why his skin has gone orange, and learns
+        about how skin cells get their nutrients.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286668
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
@@ -334,6 +428,24 @@
         -
           type: Netflix
           url: http://movies.netflix.com/WiPlayer?movieid=70262646
+        -
+          type: Amazon
+          url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM
+-
+  name: The Senses
+  resources:
+    -
+      name: The Magic School Bus Makes a Stink
+      type: video
+      collection: Magic School Bus
+      part: Season 4 · Episode 10
+      description: >
+        Ms. Frizzle's class enters a nose to see how molecules of different shapes meet
+        up with receptors to cause us to smell things.
+      locations:
+        -
+          type: Netflix
+          url: http://movies.netflix.com/WiPlayer?movieid=70286673
         -
           type: Amazon
           url: http://www.amazon.com/The-Magic-School-Bus-Complete/dp/B007I1Q4MM

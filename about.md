@@ -22,11 +22,11 @@ videos, and other interesting resources.
 You'll notice a small number of resources to start, plus a blog post or
 two where I contribute my own educational material to add to the pile.
 
-If you feel like contributing, or have a suggestion for the site, please
-reach out to [@jeffbaumes](https://twitter.com/jeffbaumes) on Twitter,
+If you feel like contributing, or have a suggestion for the site, ping me at
+[@jeffbaumes](https://twitter.com/jeffbaumes) on Twitter,
 or head to the [GitHub issues page](https://github.com/jeffbaumes/relateucate/issues)
 and open a new issue to start a discussion.
 
 Thanks for visiting!
 
-~ Jeff
+Jeff
